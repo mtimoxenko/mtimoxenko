@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate Full-stack developer with a strong emphasis on backend development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fr3m3n" alt="fr3m3n" /></a> </p>
-
 - 🔭 I’m currently working on [Clinic project](https://github.com/fr3m3n/clinic)
 
 - 🌱 I’m currently learning **Java Spring Boot**
