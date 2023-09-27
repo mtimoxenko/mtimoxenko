@@ -1,4 +1,4 @@
-Welcome to my GitHub presentation repository! This space is dedicated to showcasing my skills, projects, and passion for full-stack development with a strong emphasis on backend technologies, including Java, Spring Boot, and API development.
+Welcome to my GitHub presentation repository! This space is dedicated to showcasing my skills, projects, and passion for full-stack development with an emphasis on backend technologies, including Java, Spring Boot, and API development.
 
 ## About Me 🙋‍♂️
 
@@ -11,6 +11,8 @@ I'm Max, a dedicated full-stack developer on a continuous learning journey. I'm 
 - **Continuous Learning:** I believe in keeping up with the latest tech trends and best practices to stay competitive in the ever-evolving tech world.
 
 ## Projects 🛠️
+
+- 🔭 I’m currently working on [IdentityHub project](https://github.com/fr3m3n/IdentityHub): A central hub microservice for managing user identities and access control.
 
 Explore some of the projects I've worked on:
 - [Dinamic Resume](https://github.com/fr3m3n/resume): Dynamic website as a personal Portfolio.
