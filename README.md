@@ -14,7 +14,7 @@ I'm Max, a dedicated full-stack developer on a continuous learning journey. I'm 
 
 - 🔭 I’m currently working on [IdentityHub project](https://github.com/fr3m3n/IdentityHub): A central hub microservice for managing user identities and access control.
 
-Explore some of the projects I've worked on:
+Explore some of my projects:
 - [Dinamic Resume](https://github.com/fr3m3n/resume): Dynamic website as a personal Portfolio.
 - [Front-End Challenge](https://github.com/fr3m3n/f3-challenge): Responsive web using CSS and HTML only.
 - [Dental Clinic Appointment System](https://github.com/fr3m3n/clinic): Full-stack web application to manage Appointment System for Dental Clinic
