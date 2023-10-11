@@ -4,8 +4,8 @@ I'm Max, a full-stack developer, on a continuous learning journey.
 
 ## Focus Areas 🎯
 
-- **Backend Technologies:** Specializing in Java, Spring Boot, and API development.
-- **Full-Stack Development:** Proficient in both frontend and backend, delivering complete solutions.
+- **Backend Technologies:** Skilled in Java, Spring Boot, and API development.
+- **Full-Stack Development:** Comfortable with both frontend and backend, capable of delivering complete solutions.
 - **Continuous Learning:** Keeping up with the latest tech trends and best practices.
 
 ## Projects 🛠️
