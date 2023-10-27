@@ -4,7 +4,7 @@ Tech Developer on a continuous learning journey.
 
 ## Focus Areas 🎯
 
-- **Backend Technologies:** Skilled in Java, Spring Boot, and API development.
+- **Infrastructure Technologies:** Proficient in Ansible, Terraform, AWS, Docker, and cloud-based infrastructure management.
 - **Full-Stack Development:** Comfortable with both frontend and backend, capable of delivering complete solutions.
 - **Continuous Learning:** Keeping up with the latest tech trends and best practices.
 
