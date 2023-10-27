@@ -5,7 +5,7 @@ Tech Developer on a continuous learning journey.
 ## Focus Areas 🎯
 
 - **Full-Stack Development:** Comfortable with both frontend and backend, capable of delivering complete solutions.
-- **Infrastructure Technologies:** Proficient in Ansible, Terraform, AWS, Docker, and cloud-based infrastructure management.
+- **Infrastructure Technologies:** Proficient in Ansible, Terraform, AWS, Docker, and cloud-based infrastructure.
 - **Continuous Learning:** Keeping up with the latest tech trends and best practices.
 
 ## Projects 🛠️
