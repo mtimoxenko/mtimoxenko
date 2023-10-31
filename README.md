@@ -15,7 +15,7 @@ Tech Developer on a continuous learning journey.
 Explore some of my projects:
 - [Dental Clinic Appointment System](https://github.com/fr3m3n/dentalcura-app): Full-stack web app for managing dental clinic appointments.
 - [AWS Cloud Infrastructure model](https://github.com/fr3m3n/cloud-core): An IaC project for AWS cloud setup using Terraform and Ansible.
-- [Dinamic Resume](https://github.com/fr3m3n/dynamic-resume): Dynamic personal portfolio website.
+- [Dynamic Resume](https://github.com/fr3m3n/dynamic-resume): Dynamic personal portfolio website.
 
 
 ## Connect with Me 🌐
