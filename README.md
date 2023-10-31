@@ -13,7 +13,7 @@ Tech Developer on a continuous learning journey.
 - 🔭 Currently working on the [IdentityHub project](https://github.com/fr3m3n): A central microservice for user identity and access control management.
 
 Explore some of my projects:
-- [Dental Clinic Appointment System](https://github.com/fr3m3n/clinic): Full-stack web app for managing dental clinic appointments.
+- [Dental Clinic Appointment System](https://github.com/fr3m3n/dentalcura-app): Full-stack web app for managing dental clinic appointments.
 - [AWS Cloud Infrastructure model](https://github.com/fr3m3n/cloud-core): An IaC project for AWS cloud setup using Terraform and Ansible.
 - [Dinamic Resume](https://github.com/fr3m3n/resume): Dynamic personal portfolio website.
 
