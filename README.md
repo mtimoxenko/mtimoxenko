@@ -10,8 +10,7 @@ Tech Developer on a continuous learning journey.
 
 ## Projects 🛠️
 
-- 🔭 Currently working on the [Media Workbench project](https://github.com/fr3m3n/media-workbench): A task management system designed for Network Operations Centers.
-
+- 🔭 Currently working on the [Media Workbench project](https://github.com/fr3m3n/media-workbench): A task management APP
 
 Explore some of my projects:
 - [Dental Clinic Appointment System](https://github.com/fr3m3n/dentalcura-app): Full-stack web app for managing dental clinic appointments.
