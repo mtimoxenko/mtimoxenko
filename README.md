@@ -1,6 +1,6 @@
-## About Me 🙋‍♂️
+## About Me 👨‍💻
 
-Exploring technology with a practical mindset, I focus on applying tech to solve real-world challenges.
+A technology enthusiast driven by curiosity, with a focus on exploring and applying tech solutions in practical scenarios.
 
 
 
