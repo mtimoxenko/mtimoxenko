@@ -2,7 +2,7 @@
 
 I enjoy coding, particularly in Java with Spring Boot for API development. 
 Love the simplicity and power of bash scripting. 
-I find joy in designing CI/CD pipelines and containerizing applications with Docker. 
+Creating CI/CD pipelines and dockerizing applications is my kind of fun.
 Also curious about cloud technologies and on the lookout for automated processes to streamline development.
 
 
