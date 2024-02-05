@@ -16,9 +16,9 @@ Also curious about cloud technologies and on the lookout for automated processes
 
 ## Projects 🛠️
 
-- [Media Workbench](https://github.com/fr3m3n/media-workbench): Java-based, Spring Boot workflow management application.
-- [Git-n-Go](https://github.com/fr3m3n/git-n-go): AI-powered Bash Script.
-- [AWS Cloud Core](https://github.com/fr3m3n/cloud-core): Automating cloud setup.
+- [Media Workbench](https://gitlab.com/mtimoxenko/media-workbench): Java-based, Spring Boot workflow management application.
+- [Git-n-Go](https://github.com/mtimoxenko/git-n-go): AI-powered Bash Script.
+- [AWS Cloud Core](https://github.com/mtimoxenko/cloud-core): Automating cloud setup.
 
 
 
