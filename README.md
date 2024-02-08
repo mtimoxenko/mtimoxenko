@@ -1,9 +1,9 @@
 ## About Me 👨‍💻
 
-I enjoy coding, particularly in Java with Spring Boot for API development. 
 Love the simplicity and power of bash scripting. 
 Creating CI/CD pipelines and dockerizing applications is my kind of fun.
-Also curious about cloud technologies and on the lookout for automated processes to streamline development.
+Enjoy coding, particularly in Java with Spring Boot for API development. 
+Also curious about [OpenAPI](https://openai.com/) integrations.
 
 
 
