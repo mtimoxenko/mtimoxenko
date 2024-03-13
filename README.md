@@ -9,14 +9,15 @@ Also curious about [OpenAPI](https://openai.com/) integrations.
 
 ## Focus Areas 🎯
 
-- **Backend Development:** Building scalable backend systems with a focus on functionality and efficiency.
 - **Infrastructure Technologies:** Delving into IaC and CI/CD solutions using tools like Ansible, Terraform, and Docker.
+- **Backend Development:** Building scalable backend systems with a focus on functionality and efficiency.
 
 
 
 ## Projects 🛠️
 
 - [Media Workbench](https://gitlab.com/mtimoxenko/media-workbench): Java-based, Spring Boot workflow management application.
+- [Car Rental](https://gitlab.com/mtimoxenko/integrador): Java-based, Spring Boot booking application.
 - [Git-n-Go](https://github.com/mtimoxenko/git-n-go): AI-powered Bash Script.
 - [AWS Cloud Core](https://github.com/mtimoxenko/cloud-core): Automating cloud setup.
 
